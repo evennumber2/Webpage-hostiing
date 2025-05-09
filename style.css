@@ -4,6 +4,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+.dark-mode a {
+  color: #9ecfff;
+}
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
